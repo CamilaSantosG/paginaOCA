@@ -1,0 +1,105 @@
+div{
+    background-color: aqua;
+}
+
+.llogin{
+    position: absolute;
+width: 144px;
+height: 61px;
+left: 683px;
+top: 235px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+.cxlogin{
+    position: absolute;
+width: 804px;
+height: 112px;
+left: 683px;
+top: 296px;
+
+background: #D9D9D9;
+}
+
+.lsenha{
+    position: absolute;
+width: 162px;
+height: 61px;
+left: 683px;
+top: 498px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+.cxsenha{
+    position: absolute;
+width: 804px;
+height: 112px;
+left: 683px;
+top: 559px;
+
+background: #D9D9D9;
+}
+
+.lacessar{
+    position: absolute;
+width: 185px;
+height: 61px;
+left: 771px;
+top: 729px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+color: #000000;
+
+position: absolute;
+width: 348px;
+height: 84px;
+left: 689px;
+top: 718px;
+
+background: #85E2FF;
+}
+
+.lc{
+    position: absolute;
+width: 302px;
+height: 61px;
+left: 1162px;
+top: 729px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+color: #000000;
+
+position: absolute;
+width: 348px;
+height: 84px;
+left: 1139px;
+top: 718px;
+
+background: #85E2FF;
+}
